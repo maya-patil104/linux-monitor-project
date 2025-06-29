@@ -1,7 +1,7 @@
 #!/bin/bash
 df -h
 free
-top
-netstat -s
-mpstat
-ps aux
+date
+whoami
+hostname
+uptime
