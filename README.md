@@ -1,1 +1,8 @@
-![WhatsApp Image 2025-06-29 at 6 39 41 PM (1)](https://github.com/user-attachments/assets/bf67f983-82b3-42ca-9c3e-735854e7ef54)
+# LINUX SYSTEM MONITOR PROJECT #
+This project is a basic linux CLI-based **SYSTEM MONITORING TOOL** 
+It includes essential command to check memory usage , disk usage , system uptime and more.
+All command are executed directly using the terminal.
+
+
+
+![WhatsApp Image 2025-06-29 at 6 39 41 PM (1)](https://github.com/user-attachments/assets/3383fd20-f342-4209-bfa1-61f20acc9265)
