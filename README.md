@@ -1,6 +1,6 @@
 # LINUX SYSTEM MONITOR PROJECT #
 This project is a basic linux CLI-based **SYSTEM MONITORING TOOL** 
-It includes essential command to check memory usage , disk usage , system uptime and more.
+It includes essential command to check memory usage , disk usage , system uptime , shows hostname , logged in user & etc.
 All command are executed directly using the terminal.
 
 
