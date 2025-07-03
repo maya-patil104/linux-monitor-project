@@ -1,0 +1,6 @@
+free -m :- memory usage
+df -h :- disk usage
+uptime :- shows uptime
+hostname :- shows hostname
+whoami :- logged in user
+date :- shows date&time
